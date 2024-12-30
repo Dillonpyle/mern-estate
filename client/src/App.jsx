@@ -6,7 +6,7 @@ import About from './pages/About';
 import CreateListing from './pages/CreateListing';
 import Home from './pages/Home';
 import Profile from './pages/Profile';
-import SignIn from './pages/signIn';
+import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import UpdateListing from './pages/UpdateListing';
 import Listing from './pages/Listing';
